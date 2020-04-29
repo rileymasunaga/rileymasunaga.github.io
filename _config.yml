@@ -23,7 +23,7 @@ email: rileymasunaga@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   For every absolute truth, the opposite is usually equally truth. 
 baseurl: "/about" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://creativemoron.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rileymasu
 
 # Build settings
